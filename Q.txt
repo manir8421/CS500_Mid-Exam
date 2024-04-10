@@ -1,0 +1,11 @@
+Following the question 1, add the following functions to Building class and Company class.
+remove_employees(employee_name: str) -> None:
+get_top_five_employees() -> list[Employee]
+get_employee(employee_id: int) -> Employee:
+Enhance your main method to test all these new functions
+following the question 2, add the followings:
+ConstructionCompanyType Enum
+ConstructionCompany class
+get_building_by_type() -> dict[BuildingType,list[Building]
+get_building_by_type() -> dict[BuildingType,list[Building]
+Enhance your main method to test all these new functions
